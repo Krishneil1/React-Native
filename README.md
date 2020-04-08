@@ -12,3 +12,15 @@ npm install --global expo-cli
 ```
 npm start
 ```
+
+## Notes ##
+React native we dont use hypen - eg
+```
+backrgound-color
+```
+in react native we use camel casing
+```
+backgroundColor
+```
+
+Styles is not inherited in react native
