@@ -24,3 +24,5 @@ backgroundColor
 ```
 
 Styles is not inherited in react native
+
+Input documentation can be found here https://reactnative.dev/docs/textinput
